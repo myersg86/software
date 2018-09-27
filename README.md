@@ -43,13 +43,65 @@
 - Atom
 - Nano
 
-## Developer
+## Operations
+
+### Monitoring & Reporting
+
+### Log Analysis & Review
+
+### Backup & Recovery
+
+### Security & Hardening
+
+### Database
+
+## Development
 
 ### Python
+
+### Shell/Bash
 
 ### NodeJS
 
 ### PHP
 
-### SQL/DB
+### Go
 
+## DevOps
+
+### Automation
+
+- Ansible
+
+### Configuration Management
+
+- Ansible
+
+### Continuous Integration
+
+- Jenkins
+- Ansible
+- Git hooks
+
+### Continous Deployment
+
+- Jenkins
+- Ansible
+- Git hooks
+
+### Orchestration
+
+- Kubernetes
+
+## Cloud & Server
+
+### Virtualization
+
+### Containerization
+
+### Load Balancing
+
+
+- Docker
+
+###
