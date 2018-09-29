@@ -20,7 +20,7 @@
 #### Desktop Environments
 
 - [XFCE](https://xfce.org/) - lightweight, rock-solid, customizable, familiar
-- ElementaryOS - "a fast and open replacement for Windows and macOS" - great UI/UX with sane defaults, Ubuntu base
+- [elementaryOS](https://elementary.io/) - "a fast and open replacement for Windows and macOS" - great UI/UX with sane defaults, Ubuntu base
 - MATE - fast, user-friendly, tweakable
 - KDE - highly customizable modern desktop environment
 
