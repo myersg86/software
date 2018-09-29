@@ -6,8 +6,8 @@
 ## General Command/Terminal
 
 - BASH (Bourne-Again Shell) - powerful universal default
-- Tmux -
-- Terminator -
+- Tmux - terminal multiplexer, allowing a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session. 
+- Terminator - GUI 
 
 ### System/Utilities
 
