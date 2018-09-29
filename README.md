@@ -3,7 +3,7 @@
 
 # Useful software tools & utilities
 
-## Terminal/Command Line
+## General Command/Terminal
 
 - BASH (Bourne-Again Shell) - powerful universal default
 - Tmux -
