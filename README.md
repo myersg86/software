@@ -9,11 +9,11 @@
 - Tmux -
 - Terminator -
 
-## System/Utilities
+### System/Utilities
 
-### Command-Line/Terminal
+#### Command-Line/Terminal
 
-- Ansible - cross-platform automation & configuration management "swiss-army knife"
+- Ansible - cross-platform automation & configuration management "swiss-army knife" (highly adaptable & versatile multi-tool)
 
 ### GUI/Desktop
 
