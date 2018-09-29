@@ -5,7 +5,7 @@
 
 ## General Command/Terminal
 
-- BASH (Bourne-Again Shell) - powerful universal default
+- [BASH](https://www.gnu.org/software/bash/) (Bourne-Again Shell) - powerful universal default
 - [Tmux](https://github.com/tmux/tmux) - terminal multiplexer, allowing a user to access multiple separate terminal sessions inside a single terminal window or remote terminal session. 
 - [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/) - GUI terminal with ability to run multiple terminal sessions inside single window in a grid or tab arrangement. keyboard shortcuts, simultaneous typing, extensible through plugins
 
