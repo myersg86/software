@@ -13,7 +13,7 @@
 
 #### Command-Line/Terminal
 
-- Ansible - cross-platform automation & configuration management "swiss-army knife" (highly adaptable & versatile multi-tool)
+- [Ansible](https://www.ansible.com/) - cross-platform automation & configuration management "swiss-army knife" (highly adaptable & versatile multi-tool)
 
 ### GUI/Desktop
 
