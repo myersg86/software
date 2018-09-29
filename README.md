@@ -22,7 +22,7 @@
 - [XFCE](https://xfce.org/) - lightweight, rock-solid, customizable, familiar
 - [elementaryOS](https://elementary.io/) - "a fast and open replacement for Windows and macOS" - great UI/UX with sane defaults, Ubuntu base
 - [MATE](https://mate-desktop.org/) - fast, user-friendly, tweakable
-- KDE - highly customizable modern desktop environment
+- [KDE](https://www.kde.org/) - highly customizable modern desktop environment
 
 #### Applications
 
